@@ -1,0 +1,15 @@
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\bin\Debug\net6.0\math.exe
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\bin\Debug\net6.0\math.deps.json
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\bin\Debug\net6.0\math.runtimeconfig.json
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\bin\Debug\net6.0\math.dll
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\bin\Debug\net6.0\math.pdb
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.AssemblyInfo.cs
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.dll
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\refint\math.dll
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.pdb
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\math.genruntimeconfig.cache
+C:\Users\User\Progra - Talleres\03 -Operaciones Matemáticas\math\obj\Debug\net6.0\ref\math.dll
